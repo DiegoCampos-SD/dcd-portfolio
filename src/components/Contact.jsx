@@ -33,7 +33,7 @@ export const Contact = () => {
 
   return (
     <section id="contact">
-      <div className="flex flex-col justify-center items-center md:ml-auto md:py-8 mt-0 mt-10">
+      <div className="flex flex-col justify-center items-center md:ml-auto md:py-8">
         <form ref={form} onSubmit={sendEmail}>
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Contact

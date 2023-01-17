@@ -29,7 +29,11 @@ export const Projects = () => {
               <div className="flex relative">
                 <img
                   alt="gallery"
-                  className="absolute inset-0 px-20 w-full h-full object-center rounded-xl "
+                  className={`absolute inset-0 px-20 ${
+                    project.title === "CalculatorApp"
+                      ? `w-/4 ml-44` 
+                      : `w-full`
+                  } h-full object-center rounded-xl `}
                   src={project.image}
                 />
                 <div

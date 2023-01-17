@@ -49,6 +49,22 @@ export const projects = [
     image: "./journal.gif",
     link: "https://journal-app-dcd.netlify.app",
   },
+  {
+    title: "NY-taxi 2013/2014 Data Analysis",
+    subtitle: "Power BI",
+    description:
+      "Data analysis to know what was the behavior of users, earnings and general averages when using taxis in the city of New York in the years 2013 / 2014.",
+    image: "./powerBi.gif",
+    // link: "https://journal-app-dcd.netlify.app",
+  },
+  {
+    title: "CalculatorApp",
+    subtitle: "React Native Android",
+    description:
+      "Replication and improvement of the calculator created for IOs devices, being able to see what the result of the operation when another one was added. Tested using simulators.",
+    image: "./calculator.gif",
+    // link: "https://journal-app-dcd.netlify.app",
+  },
 ];
 
 export const skills = [
