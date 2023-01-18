@@ -1,8 +1,6 @@
 import { ArrowRightIcon } from "@heroicons/react/24/solid";
 import React from "react";
 
-
-
 export const Navbar = () => {
   return (
     <header className="bg-gray-800 opacity-70 md:sticky top-0 z-10">
@@ -20,7 +18,7 @@ export const Navbar = () => {
             Skills
           </a>
           <a
-            href="./Diego_ Campos_SD_CV.pdf"
+            href="./Diego_Campos_SD_CV.pdf"
             target="_blank"
             className="mr-5 hover:text-white"
           >
