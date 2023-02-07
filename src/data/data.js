@@ -132,4 +132,16 @@ export const skills = [
     title: "Power BI",
     image: "./power-bi.png",
   },
+  {
+    title: "TypeScript",
+    image: "./typescript.svg",
+  },
+  {
+    title: "Angular",
+    image: "./angular.svg",
+  },
+  {
+    title: "PrimeNg",
+    image: "./primeng.svg",
+  },
 ];
