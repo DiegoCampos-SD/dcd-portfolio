@@ -65,6 +65,14 @@ export const projects = [
     image: "./calculator.gif",
     // link: "https://journal-app-dcd.netlify.app",
   },
+  {
+    title: "MapsApp",
+    subtitle: "Angular",
+    description:
+      "Application that shows your location, you can search specific sites and get directions to arrived.",
+    image: "./maps.gif",
+    link: "https://map-app-dcd.netlify.app/",
+  },
 ];
 
 export const skills = [
