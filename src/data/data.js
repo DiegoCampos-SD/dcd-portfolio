@@ -8,20 +8,20 @@ export const projects = [
     // link: "https://reactbootcamp.com",
   },
   {
-    title: "AllSports Business Administration",
+    title: "All Sports+ Business Administration",
     subtitle: "React and Firebase",
     description:
-      "The AllSports mobile app administrator can accept, deny and place on hold the users and sponsors, also have an administration tab to manage all the internal teams.",
+      "The All Sports+ mobile app administrator can accept, deny and place on hold the users and sponsors, also have an administration tab to manage all the internal teams.",
     image: "./allsportsAdminBusiness.gif",
-    // link: "https://journal-app-dcd.netlify.app",
+    link: "https://www.allsports.plus/home",
   },
   {
-    title: "AllSports Sponsors Administration",
+    title: "All Sports+ Sponsors Administration",
     subtitle: "React and Firebase",
     description:
       "All the sponsors have access to a dashboard to manage the exchanges and deals that they are offering to general users, also the can update the sponsor information.",
     image: "./allsportsAdminUi.gif",
-    // link: "https://journal-app-dcd.netlify.app",
+    // link: "",
   },
   {
     title: "HeroApp",
@@ -55,7 +55,7 @@ export const projects = [
     description:
       "Data analysis to know what was the behavior of users, earnings and general averages when using taxis in the city of New York in the years 2013 / 2014.",
     image: "./powerBi.gif",
-    // link: "https://journal-app-dcd.netlify.app",
+    // link: "",
   },
   {
     title: "CalculatorApp",
@@ -63,7 +63,7 @@ export const projects = [
     description:
       "Replication and improvement of the calculator created for IOs devices, being able to see what the result of the operation when another one was added. Tested using simulators.",
     image: "./calculator.gif",
-    // link: "https://journal-app-dcd.netlify.app",
+    // link: "",
   },
   {
     title: "MapsApp",
@@ -79,7 +79,7 @@ export const projects = [
     description:
       "Prediction of what type of music a person prefer depending of the gender and age.",
     image: "./MusicPrediction.gif",
-    //link: "https://map-app-dcd.netlify.app/",
+    //link: "",
   },
 ];
 
