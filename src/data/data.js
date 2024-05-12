@@ -73,6 +73,14 @@ export const projects = [
     image: "./maps.gif",
     link: "https://map-app-dcd.netlify.app/",
   },
+  {
+    title: "Music-prediction",
+    subtitle: "Machine Learning",
+    description:
+      "Prediction of what type of music a person prefer depending of the gender and age.",
+    image: "./MusicPrediction.gif",
+    //link: "https://map-app-dcd.netlify.app/",
+  },
 ];
 
 export const skills = [
@@ -151,5 +159,21 @@ export const skills = [
   {
     title: "PrimeNg",
     image: "./primeng.svg",
+  },
+  {
+    title: "Python",
+    image: "./python.svg",
+  },
+  {
+    title: "Jupyter",
+    image: "./jupyter.svg",
+  },
+  {
+    title: "Numpy",
+    image: "./numpy.svg",
+  },
+  {
+    title: "Pandas",
+    image: "./pandas.svg",
   },
 ];
