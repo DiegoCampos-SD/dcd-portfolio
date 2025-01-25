@@ -18,7 +18,7 @@ export const Navbar = () => {
             Skills
           </a>
           <a
-            href="./Diego_Campos_SD_CV.pdf"
+            href="./Diego_Campos_resume.pdf"
             target="_blank"
             className="mr-5 hover:text-white"
           >
