@@ -7,7 +7,7 @@ export const Portfolio = () => {
       <About />
       <Projects />
       <Skills />
-      <Contact />
+      {/*<Contact />*/}
     </main>
   );
 };

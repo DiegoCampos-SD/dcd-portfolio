@@ -1,11 +1,19 @@
 export const projects = [
   {
+    title: "PhotoWebApp",
+    subtitle: "HTML, CSS and Javascript",
+    description:
+      "Web site that shows different types of film and how they look when developed, so you could see how your pictures are going to look if you decide to shoot that film.",
+    image: "./photowebapp.gif",
+    link: "https://photowebapp.netlify.app/",
+  },
+  {
     title: "CalendarApp",
     subtitle: "MERN Stack",
     description:
       "Agenda/Calendar application where registered users can perform the CRUD of events and can only see the events of other users without being able to edit or delete them.",
     image: "./calendar.gif",
-    // link: "https://reactbootcamp.com",
+    // link: "",
   },
   {
     title: "All Sports+ Business Administration",

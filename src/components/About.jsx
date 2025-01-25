@@ -18,6 +18,7 @@ export const About = () => {
             share my acquired knowledge to solve the impediments that are
             presented to a colleague or the team.
           </p>
+          {/*
           <div className="flex justify-center">
             <a
               href="#contact"
@@ -26,6 +27,7 @@ export const About = () => {
               Work With Me
             </a>
           </div>
+  */}
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
